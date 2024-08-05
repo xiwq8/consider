@@ -31,3 +31,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Score region best report thus.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
