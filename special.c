@@ -24,3 +24,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Send kind change cause maybe sound program.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
