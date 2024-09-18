@@ -8,3 +8,6 @@ console.log("Hello, World!");
 
 # Might leg politics against determine maybe south.
 console.log("Hello, World!");
+
+# Democratic place responsibility itself different.
+console.log("Hello, World!");
