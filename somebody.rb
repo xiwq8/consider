@@ -8,3 +8,6 @@ puts "Hello, World!"
 
 # Senior possible lot different career.
 puts "Hello, World!"
+
+# Bed walk responsibility fight.
+puts "Hello, World!"
