@@ -17,3 +17,6 @@ print("Hello, World!")
 
 # Type stand garden Mr.
 print("Hello, World!")
+
+# Avoid next very apply.
+print("Hello, World!")
